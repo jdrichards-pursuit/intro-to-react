@@ -4,7 +4,7 @@ import "./App.css";
 
 const App = () => {
   return (
-    <div>
+    <div style={{ border: "2px solid red" }}>
       <h1>App Component</h1>
       <Header />
       <Header />
